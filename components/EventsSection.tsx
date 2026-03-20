@@ -27,7 +27,7 @@ const events = [
 export default function EventsSection() {
   return (
     <section id="wydarzenia" className="py-24 px-6 bg-[#0A0A0A]">
-      <div className="max-w-7xl mx-auto">
+      <div className="max-w-[1400px] mx-auto">
         <div className="text-center mb-16">
           <p className="text-[#00E5FF] text-xs font-bold uppercase tracking-[0.3em] mb-3 text-[#FF7A1A]/80">
             Kalendarz

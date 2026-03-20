@@ -192,7 +192,7 @@ export default function SocialFeed() {
 
   return (
     <section className="py-24 px-6 bg-[#0A0A0A]">
-      <div className="max-w-7xl mx-auto">
+      <div className="max-w-[1400px] mx-auto">
         <div className="flex items-end justify-between mb-12">
           <div>
             <p className="text-[#00E5FF] text-xs font-bold uppercase tracking-[0.3em] mb-3">

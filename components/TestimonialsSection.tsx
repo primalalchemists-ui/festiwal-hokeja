@@ -333,7 +333,7 @@ export default function TestimonialsSection() {
         </div>
       </section>
 
-      <footer className="py-8 px-6 bg-[#0A0A0A] border-t border-white/5">
+      <footer className="py-8 px-6 bg-gradient-to-b from-[#0d1b2a] to-[#0A0A0A]  ">
         <div className="max-w-7xl mx-auto flex flex-col sm:flex-row items-center justify-between gap-4">
           <span className="text-gray-600 text-xs">
             © 2026 Festiwal Hokeja. Wszelkie prawa zastrzeżone.
